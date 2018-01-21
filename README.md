@@ -1,3 +1,13 @@
+
+2018-1-21
+1. 对消息进行处理，尤其是通过app分享或公众号图文消息
+2. 尝试进行多账号分割，对user-data 进行分割
+   TODO 多账号同时运行是否消息混乱和冲突
+   TODO 语音图片等保存数据对不同用户进行区分
+
+-------------以下为原项目文档--------------------------------------------
+
+
 # wechat4u.js
 
 ![](http://7xr8pm.com1.z0.glb.clouddn.com/nodeWechat.png) [![npm version](https://img.shields.io/npm/v/wechat4u.svg)](https://www.npmjs.org/package/wechat4u) [![wechat group](https://img.shields.io/badge/wechat-group-brightgreen.svg)](http://www.qr-code-generator.com/phpqrcode/getCode.php?cht=qr&chl=http%3A%2F%2Fweixin.qq.com%2Fg%2FA1zJ47b19KtgMnAx&chs=180x180&choe=UTF-8&chld=L|0)
